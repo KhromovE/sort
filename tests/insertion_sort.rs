@@ -1,5 +1,3 @@
-extern crate sort;
-
 #[cfg(test)]
 mod insertion_sort {
   use sort;

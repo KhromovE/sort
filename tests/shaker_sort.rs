@@ -1,5 +1,3 @@
-extern crate sort;
-
 #[cfg(test)]
 mod shaker_sort {
   use sort;

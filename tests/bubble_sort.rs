@@ -1,5 +1,3 @@
-extern crate sort;
-
 #[cfg(test)]
 mod bubble_sort {
   use sort;

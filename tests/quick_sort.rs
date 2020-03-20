@@ -1,5 +1,3 @@
-extern crate sort;
-
 #[cfg(test)]
 mod quick_sort {
   use sort;
