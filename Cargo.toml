@@ -4,4 +4,11 @@ version = "0.1.0"
 authors = ["Egor <khromove@gmail.com>"]
 edition = "2018"
 
-[dependencies]
+[dev-dependencies]
+criterion = "0.3"
+shuffle = "0.1"
+rand = "0.7"
+
+[[bench]]
+name = "sort"
+harness = false
