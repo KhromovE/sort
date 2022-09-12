@@ -5,7 +5,7 @@ authors = ["Egor <khromove@gmail.com>"]
 edition = "2018"
 
 [dev-dependencies]
-criterion = "0.3"
+criterion = "0.4"
 shuffle = "0.1"
 rand = "0.8"
 
